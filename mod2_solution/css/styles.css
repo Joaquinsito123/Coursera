@@ -38,9 +38,10 @@ body {
 }
 
 .lorem-text {
+  display:inline-block;
   text-align: left;
   color: #ada3a3ea;
-  margin: 20px;
+  margin: 5px 20px 20px 20px;
 }
 
 @media (min-width: 768px) {
